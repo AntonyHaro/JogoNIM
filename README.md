@@ -5,6 +5,7 @@ Bem-vindo ao jogo do NIM! Este é um jogo de estratégia simples implementado em
 ## Descrição
 
 O Jogo do NIM é um jogo matemático em que dois jogadores se alternam para retirar um número de peças de um tabuleiro. Em cada turno, um jogador deve retirar pelo menos uma peça e no máximo um número fixo de peças. O jogador que retirar a última peça ganha o jogo.
+Nesta aplicação, foi implementado um sistema inteligente para que o computador faça a melhor jogada possível para que vença o jogador.
 
 ## Regras
 
